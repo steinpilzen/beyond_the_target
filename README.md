@@ -6,7 +6,7 @@ When AI takes the easy work, what happens to human targets?
 
 ## Interactive Dashboard
 
-**[Open the Dashboard on Tableau Public]([PASTE YOUR TABLEAU PUBLIC LINK HERE])**
+**[Open the Dashboard on Tableau Public](https://public.tableau.com/views/BeyondtheTargetHumanJudgmentinAI-DrivenOperations/1Detect?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 The dashboard has three pages: **1 Detect**, **2 Understand** and **3 Decide & Measure**. On page 1, click any week in the status strip to update the six cards and the status panel.
 
@@ -124,8 +124,7 @@ beyond-the-target/
 │   ├── 1_detect.png
 │   ├── 2_understand.png
 │   └── 3_decide_and_measure.png
-└── presentation/
-    └── Final_Project.pdf
+
 ```
 
 | File | Rows | Contents |
@@ -174,5 +173,5 @@ All outputs are at **team level**. No individual agent is tracked, scored or sho
 
 ## Author
 
-**[Your Name]**, final project for the Data Analytics program at WBS Coding School.
-[LinkedIn]([YOUR LINKEDIN URL])
+**Elena Ingram**, final project for the Data Analytics program at WBS Coding School.
+
