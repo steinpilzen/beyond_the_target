@@ -1,0 +1,13 @@
+week,phase,phase_order,complexity_flag,quality_flag,wellbeing_flag,workload_flag,signal_count,status,reason,retention_warning_week,retention_indicator,turnover_event
+1,baseline,1.0,0,0,0,0,0,Green,No warning signals this week.,0,Insufficient history,0
+2,baseline,1.0,0,0,0,0,0,Green,No warning signals this week.,0,Insufficient history,0
+3,baseline,1.0,0,0,0,0,0,Green,No warning signals this week.,0,No sustained warning,0
+4,baseline,1.0,0,0,0,0,0,Green,No warning signals this week.,0,No sustained warning,0
+5,baseline,1.0,0,0,0,0,0,Green,No warning signals this week.,0,No sustained warning,0
+6,transition,1.5,0,0,0,0,0,Green,No warning signals this week.,0,No sustained warning,0
+7,risky_lever,2.0,1,0,0,0,1,Unclear,Signal(s) present (complexity share elevated) but combination does not match a defined Amber/Red pattern.,0,No sustained warning,0
+8,risky_lever,2.0,1,1,0,1,3,Amber,"Amber: complexity share elevated, CSAT below baseline, workload less evenly distributed.",0,No sustained warning,0
+9,risky_lever,2.0,1,1,1,1,4,Red,"Red: complexity share elevated, CSAT below baseline, wellbeing below baseline, workload less evenly distributed.",1,Emerging,0
+10,sustainable_lever,3.0,1,1,0,0,2,Amber,"Amber: complexity share elevated, CSAT below baseline.",0,Emerging,0
+11,sustainable_lever,3.0,1,1,0,1,3,Amber,"Amber: complexity share elevated, CSAT below baseline, workload less evenly distributed.",0,Emerging,1
+12,sustainable_lever,3.0,1,1,0,1,3,Amber,"Amber: complexity share elevated, CSAT below baseline, workload less evenly distributed.",0,No sustained warning,0

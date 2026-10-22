@@ -1,0 +1,4 @@
+phase,phase_order,weeks_in_phase,avg_tickets_received,avg_human_tickets_received,avg_resolved_per_agent_day,avg_target_per_agent_day,avg_high_complexity_pct,avg_csat,avg_wellbeing,avg_workload_unfairness,avg_capacity_load_pct,avg_actual_utilization_pct,turnover_events
+baseline,1,5,1139.2,1139.2,25.45,25.45,25.4,87.9,7.34,7.8,84.9,84.4,0
+risky_lever,2,3,1146.3,627.7,13.96,30.54,46.3,81.0,6.44,15.1,92.4,91.6,0
+sustainable_lever,3,3,1164.7,581.0,12.91,24.18,50.4,81.0,6.52,13.7,94.8,94.2,1

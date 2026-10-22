@@ -1,0 +1,157 @@
+week,phase,phase_order,metric_name,metric_category,unit,value,baseline_mean,target_value
+1,baseline,1.0,high_complexity_share_pct,complexity,%,25.11,25.36,
+2,baseline,1.0,high_complexity_share_pct,complexity,%,26.72,25.36,
+3,baseline,1.0,high_complexity_share_pct,complexity,%,25.69,25.36,
+4,baseline,1.0,high_complexity_share_pct,complexity,%,23.71,25.36,
+5,baseline,1.0,high_complexity_share_pct,complexity,%,25.6,25.36,
+6,transition,1.5,high_complexity_share_pct,complexity,%,30.98,25.36,
+7,risky_lever,2.0,high_complexity_share_pct,complexity,%,44.97,25.36,
+8,risky_lever,2.0,high_complexity_share_pct,complexity,%,45.78,25.36,
+9,risky_lever,2.0,high_complexity_share_pct,complexity,%,48.05,25.36,
+10,sustainable_lever,3.0,high_complexity_share_pct,complexity,%,46.32,25.36,
+11,sustainable_lever,3.0,high_complexity_share_pct,complexity,%,53.23,25.36,
+12,sustainable_lever,3.0,high_complexity_share_pct,complexity,%,51.75,25.36,
+1,baseline,1.0,csat_score,operational,0-100,85.98,87.87,90.0
+2,baseline,1.0,csat_score,operational,0-100,87.6,87.87,90.0
+3,baseline,1.0,csat_score,operational,0-100,88.2,87.87,90.0
+4,baseline,1.0,csat_score,operational,0-100,88.7,87.87,90.0
+5,baseline,1.0,csat_score,operational,0-100,88.85,87.87,90.0
+6,transition,1.5,csat_score,operational,0-100,88.95,87.87,90.0
+7,risky_lever,2.0,csat_score,operational,0-100,85.63,87.87,90.0
+8,risky_lever,2.0,csat_score,operational,0-100,79.56,87.87,90.0
+9,risky_lever,2.0,csat_score,operational,0-100,77.73,87.87,90.0
+10,sustainable_lever,3.0,csat_score,operational,0-100,82.08,87.87,90.0
+11,sustainable_lever,3.0,csat_score,operational,0-100,80.82,87.87,90.0
+12,sustainable_lever,3.0,csat_score,operational,0-100,80.09,87.87,90.0
+1,baseline,1.0,avg_handle_time_min,operational,minutes/ticket,11.8,11.96,12.0
+2,baseline,1.0,avg_handle_time_min,operational,minutes/ticket,12.34,11.96,12.0
+3,baseline,1.0,avg_handle_time_min,operational,minutes/ticket,11.77,11.96,12.0
+4,baseline,1.0,avg_handle_time_min,operational,minutes/ticket,11.4,11.96,12.0
+5,baseline,1.0,avg_handle_time_min,operational,minutes/ticket,12.51,11.96,12.0
+6,transition,1.5,avg_handle_time_min,operational,minutes/ticket,15.42,11.96,12.0
+7,risky_lever,2.0,avg_handle_time_min,operational,minutes/ticket,22.65,11.96,12.0
+8,risky_lever,2.0,avg_handle_time_min,operational,minutes/ticket,23.55,11.96,12.0
+9,risky_lever,2.0,avg_handle_time_min,operational,minutes/ticket,24.77,11.96,12.0
+10,sustainable_lever,3.0,avg_handle_time_min,operational,minutes/ticket,23.84,11.96,12.0
+11,sustainable_lever,3.0,avg_handle_time_min,operational,minutes/ticket,28.05,11.96,12.0
+12,sustainable_lever,3.0,avg_handle_time_min,operational,minutes/ticket,26.89,11.96,12.0
+1,baseline,1.0,error_rate_pct,operational,%,2.63,3.0,3.0
+2,baseline,1.0,error_rate_pct,operational,%,3.2,3.0,3.0
+3,baseline,1.0,error_rate_pct,operational,%,3.06,3.0,3.0
+4,baseline,1.0,error_rate_pct,operational,%,3.28,3.0,3.0
+5,baseline,1.0,error_rate_pct,operational,%,2.83,3.0,3.0
+6,transition,1.5,error_rate_pct,operational,%,3.06,3.0,3.0
+7,risky_lever,2.0,error_rate_pct,operational,%,3.68,3.0,3.0
+8,risky_lever,2.0,error_rate_pct,operational,%,4.63,3.0,3.0
+9,risky_lever,2.0,error_rate_pct,operational,%,5.69,3.0,3.0
+10,sustainable_lever,3.0,error_rate_pct,operational,%,4.0,3.0,3.0
+11,sustainable_lever,3.0,error_rate_pct,operational,%,4.11,3.0,3.0
+12,sustainable_lever,3.0,error_rate_pct,operational,%,4.3,3.0,3.0
+1,baseline,1.0,escalation_rate_pct,operational,%,4.4,4.93,5.0
+2,baseline,1.0,escalation_rate_pct,operational,%,5.24,4.93,5.0
+3,baseline,1.0,escalation_rate_pct,operational,%,4.77,4.93,5.0
+4,baseline,1.0,escalation_rate_pct,operational,%,5.01,4.93,5.0
+5,baseline,1.0,escalation_rate_pct,operational,%,5.24,4.93,5.0
+6,transition,1.5,escalation_rate_pct,operational,%,5.22,4.93,5.0
+7,risky_lever,2.0,escalation_rate_pct,operational,%,5.94,4.93,5.0
+8,risky_lever,2.0,escalation_rate_pct,operational,%,7.4,4.93,5.0
+9,risky_lever,2.0,escalation_rate_pct,operational,%,8.31,4.93,5.0
+10,sustainable_lever,3.0,escalation_rate_pct,operational,%,6.73,4.93,5.0
+11,sustainable_lever,3.0,escalation_rate_pct,operational,%,5.91,4.93,5.0
+12,sustainable_lever,3.0,escalation_rate_pct,operational,%,6.32,4.93,5.0
+1,baseline,1.0,backlog_tickets,operational,tickets,0.0,6.0,
+2,baseline,1.0,backlog_tickets,operational,tickets,0.0,6.0,
+3,baseline,1.0,backlog_tickets,operational,tickets,0.0,6.0,
+4,baseline,1.0,backlog_tickets,operational,tickets,0.0,6.0,
+5,baseline,1.0,backlog_tickets,operational,tickets,30.0,6.0,
+6,transition,1.5,backlog_tickets,operational,tickets,5.0,6.0,
+7,risky_lever,2.0,backlog_tickets,operational,tickets,6.0,6.0,
+8,risky_lever,2.0,backlog_tickets,operational,tickets,8.0,6.0,
+9,risky_lever,2.0,backlog_tickets,operational,tickets,3.0,6.0,
+10,sustainable_lever,3.0,backlog_tickets,operational,tickets,0.0,6.0,
+11,sustainable_lever,3.0,backlog_tickets,operational,tickets,35.0,6.0,
+12,sustainable_lever,3.0,backlog_tickets,operational,tickets,3.0,6.0,
+1,baseline,1.0,wellbeing_pulse,sustainability,0-10 survey,7.17,7.34,
+2,baseline,1.0,wellbeing_pulse,sustainability,0-10 survey,7.25,7.34,
+3,baseline,1.0,wellbeing_pulse,sustainability,0-10 survey,7.6,7.34,
+4,baseline,1.0,wellbeing_pulse,sustainability,0-10 survey,7.27,7.34,
+5,baseline,1.0,wellbeing_pulse,sustainability,0-10 survey,7.41,7.34,
+6,transition,1.5,wellbeing_pulse,sustainability,0-10 survey,7.82,7.34,
+7,risky_lever,2.0,wellbeing_pulse,sustainability,0-10 survey,7.13,7.34,
+8,risky_lever,2.0,wellbeing_pulse,sustainability,0-10 survey,6.55,7.34,
+9,risky_lever,2.0,wellbeing_pulse,sustainability,0-10 survey,5.63,7.34,
+10,sustainable_lever,3.0,wellbeing_pulse,sustainability,0-10 survey,6.63,7.34,
+11,sustainable_lever,3.0,wellbeing_pulse,sustainability,0-10 survey,6.45,7.34,
+12,sustainable_lever,3.0,wellbeing_pulse,sustainability,0-10 survey,6.47,7.34,
+1,baseline,1.0,perceived_workload,sustainability,0-10 survey,5.25,4.95,
+2,baseline,1.0,perceived_workload,sustainability,0-10 survey,4.48,4.95,
+3,baseline,1.0,perceived_workload,sustainability,0-10 survey,5.13,4.95,
+4,baseline,1.0,perceived_workload,sustainability,0-10 survey,5.07,4.95,
+5,baseline,1.0,perceived_workload,sustainability,0-10 survey,4.82,4.95,
+6,transition,1.5,perceived_workload,sustainability,0-10 survey,4.57,4.95,
+7,risky_lever,2.0,perceived_workload,sustainability,0-10 survey,5.37,4.95,
+8,risky_lever,2.0,perceived_workload,sustainability,0-10 survey,6.24,4.95,
+9,risky_lever,2.0,perceived_workload,sustainability,0-10 survey,7.08,4.95,
+10,sustainable_lever,3.0,perceived_workload,sustainability,0-10 survey,6.02,4.95,
+11,sustainable_lever,3.0,perceived_workload,sustainability,0-10 survey,6.49,4.95,
+12,sustainable_lever,3.0,perceived_workload,sustainability,0-10 survey,6.09,4.95,
+1,baseline,1.0,recovery_score,sustainability,0-10 survey,6.69,7.09,
+2,baseline,1.0,recovery_score,sustainability,0-10 survey,7.05,7.09,
+3,baseline,1.0,recovery_score,sustainability,0-10 survey,7.07,7.09,
+4,baseline,1.0,recovery_score,sustainability,0-10 survey,7.41,7.09,
+5,baseline,1.0,recovery_score,sustainability,0-10 survey,7.25,7.09,
+6,transition,1.5,recovery_score,sustainability,0-10 survey,7.11,7.09,
+7,risky_lever,2.0,recovery_score,sustainability,0-10 survey,7.14,7.09,
+8,risky_lever,2.0,recovery_score,sustainability,0-10 survey,5.42,7.09,
+9,risky_lever,2.0,recovery_score,sustainability,0-10 survey,5.05,7.09,
+10,sustainable_lever,3.0,recovery_score,sustainability,0-10 survey,5.84,7.09,
+11,sustainable_lever,3.0,recovery_score,sustainability,0-10 survey,6.0,7.09,
+12,sustainable_lever,3.0,recovery_score,sustainability,0-10 survey,5.57,7.09,
+1,baseline,1.0,absenteeism_days,sustainability,"days/week, team total",1.66,1.41,
+2,baseline,1.0,absenteeism_days,sustainability,"days/week, team total",1.44,1.41,
+3,baseline,1.0,absenteeism_days,sustainability,"days/week, team total",1.13,1.41,
+4,baseline,1.0,absenteeism_days,sustainability,"days/week, team total",1.25,1.41,
+5,baseline,1.0,absenteeism_days,sustainability,"days/week, team total",1.58,1.41,
+6,transition,1.5,absenteeism_days,sustainability,"days/week, team total",1.71,1.41,
+7,risky_lever,2.0,absenteeism_days,sustainability,"days/week, team total",2.19,1.41,
+8,risky_lever,2.0,absenteeism_days,sustainability,"days/week, team total",3.02,1.41,
+9,risky_lever,2.0,absenteeism_days,sustainability,"days/week, team total",2.73,1.41,
+10,sustainable_lever,3.0,absenteeism_days,sustainability,"days/week, team total",1.82,1.41,
+11,sustainable_lever,3.0,absenteeism_days,sustainability,"days/week, team total",1.53,1.41,
+12,sustainable_lever,3.0,absenteeism_days,sustainability,"days/week, team total",2.22,1.41,
+1,baseline,1.0,coaching_effectiveness,sustainability,0-10 manager rating,6.76,6.95,
+2,baseline,1.0,coaching_effectiveness,sustainability,0-10 manager rating,6.88,6.95,
+3,baseline,1.0,coaching_effectiveness,sustainability,0-10 manager rating,6.82,6.95,
+4,baseline,1.0,coaching_effectiveness,sustainability,0-10 manager rating,6.96,6.95,
+5,baseline,1.0,coaching_effectiveness,sustainability,0-10 manager rating,7.32,6.95,
+6,transition,1.5,coaching_effectiveness,sustainability,0-10 manager rating,7.05,6.95,
+7,risky_lever,2.0,coaching_effectiveness,sustainability,0-10 manager rating,6.78,6.95,
+8,risky_lever,2.0,coaching_effectiveness,sustainability,0-10 manager rating,5.99,6.95,
+9,risky_lever,2.0,coaching_effectiveness,sustainability,0-10 manager rating,5.49,6.95,
+10,sustainable_lever,3.0,coaching_effectiveness,sustainability,0-10 manager rating,6.35,6.95,
+11,sustainable_lever,3.0,coaching_effectiveness,sustainability,0-10 manager rating,6.48,6.95,
+12,sustainable_lever,3.0,coaching_effectiveness,sustainability,0-10 manager rating,6.95,6.95,
+1,baseline,1.0,workload_distribution_pct,complexity,% coefficient of variation,8.1,7.75,
+2,baseline,1.0,workload_distribution_pct,complexity,% coefficient of variation,8.79,7.75,
+3,baseline,1.0,workload_distribution_pct,complexity,% coefficient of variation,7.6,7.75,
+4,baseline,1.0,workload_distribution_pct,complexity,% coefficient of variation,7.05,7.75,
+5,baseline,1.0,workload_distribution_pct,complexity,% coefficient of variation,7.23,7.75,
+6,transition,1.5,workload_distribution_pct,complexity,% coefficient of variation,7.42,7.75,
+7,risky_lever,2.0,workload_distribution_pct,complexity,% coefficient of variation,11.52,7.75,
+8,risky_lever,2.0,workload_distribution_pct,complexity,% coefficient of variation,14.7,7.75,
+9,risky_lever,2.0,workload_distribution_pct,complexity,% coefficient of variation,19.22,7.75,
+10,sustainable_lever,3.0,workload_distribution_pct,complexity,% coefficient of variation,12.58,7.75,
+11,sustainable_lever,3.0,workload_distribution_pct,complexity,% coefficient of variation,14.02,7.75,
+12,sustainable_lever,3.0,workload_distribution_pct,complexity,% coefficient of variation,14.42,7.75,
+1,baseline,1.0,human_tickets_resolved_per_agent_day,operational,tickets/agent/day,27.27,25.45,25.45
+2,baseline,1.0,human_tickets_resolved_per_agent_day,operational,tickets/agent/day,24.29,25.45,25.45
+3,baseline,1.0,human_tickets_resolved_per_agent_day,operational,tickets/agent/day,26.47,25.45,25.45
+4,baseline,1.0,human_tickets_resolved_per_agent_day,operational,tickets/agent/day,26.71,25.45,25.45
+5,baseline,1.0,human_tickets_resolved_per_agent_day,operational,tickets/agent/day,22.51,25.45,25.45
+6,transition,1.5,human_tickets_resolved_per_agent_day,operational,tickets/agent/day,18.78,25.45,30.54
+7,risky_lever,2.0,human_tickets_resolved_per_agent_day,operational,tickets/agent/day,15.0,25.45,30.54
+8,risky_lever,2.0,human_tickets_resolved_per_agent_day,operational,tickets/agent/day,13.64,25.45,30.54
+9,risky_lever,2.0,human_tickets_resolved_per_agent_day,operational,tickets/agent/day,13.24,25.45,30.54
+10,sustainable_lever,3.0,human_tickets_resolved_per_agent_day,operational,tickets/agent/day,12.73,25.45,24.18
+11,sustainable_lever,3.0,human_tickets_resolved_per_agent_day,operational,tickets/agent/day,12.62,25.45,24.18
+12,sustainable_lever,3.0,human_tickets_resolved_per_agent_day,operational,tickets/agent/day,13.38,25.45,24.18
