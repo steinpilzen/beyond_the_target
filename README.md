@@ -136,7 +136,7 @@ beyond-the-target/
 
 ## How to Run
 
-Both notebooks run in Google Colab and work independently. Replace `YOUR-USERNAME` in the links below after you upload the repository.
+Both notebooks run in Google Colab and work independently.
 
 1. **Notebook 01:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/steinpilzen/beyond_the_target/blob/main/notebooks/01_data_generation.ipynb)
    Choose **Runtime > Run all**. The last cell downloads `team_weekly.csv`, `team_weekly_long.csv` and `team_weekly_status.csv`. The random seed is fixed, so you get the same data every time.
