@@ -138,9 +138,9 @@ beyond-the-target/
 
 Both notebooks run in Google Colab and work independently. Replace `YOUR-USERNAME` in the links below after you upload the repository.
 
-1. **Notebook 01:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/beyond-the-target/blob/main/notebooks/01_data_generation.ipynb)
+1. **Notebook 01:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/steinpilzen/beyond_the_target/blob/main/notebooks/01_data_generation.ipynb)
    Choose **Runtime > Run all**. The last cell downloads `team_weekly.csv`, `team_weekly_long.csv` and `team_weekly_status.csv`. The random seed is fixed, so you get the same data every time.
-2. **Notebook 02:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/beyond-the-target/blob/main/notebooks/02_sql_aggregation.ipynb)
+2. **Notebook 02:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/steinpilzen/beyond_the_target/blob/main/notebooks/02_sql_aggregation.ipynb)
    Run the upload cell and choose `team_weekly.csv`, then run the rest. It builds `team_phase_summary.csv` with a SQL `GROUP BY` and downloads it.
 
 Python libraries used: pandas, numpy, matplotlib and sqlite3.
